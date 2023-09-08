@@ -32,7 +32,7 @@ const Header = ({ logo }) => {
               </li>
               <li className="download_cv">
                 <a href="img/cv/1.jpg" download="">
-                  <span>Download CV</span>
+                  <span>Let's Have a Chat</span>
                 </a>
               </li>
             </ul>
