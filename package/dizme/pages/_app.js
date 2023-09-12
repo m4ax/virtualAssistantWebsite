@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }) {
         />
       </Head>
       <Component {...pageProps} />
-    </Fragment>
+    </Fragment>   
   );
 }
 

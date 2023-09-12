@@ -38,18 +38,8 @@ const MobileMenu = ({ logo }) => {
               </a>
             </li>
             <li>
-              <a onClick={() => setToggle(false)} href="#portfolio">
-                Portfolio
-              </a>
-            </li>
-            <li>
               <a onClick={() => setToggle(false)} href="#service">
                 Service
-              </a>
-            </li>
-            <li>
-              <a onClick={() => setToggle(false)} href="#blog">
-                Blog
               </a>
             </li>
             <li>
@@ -58,8 +48,8 @@ const MobileMenu = ({ logo }) => {
               </a>
             </li>
             <li className="download_cv">
-              <a href="img/cv/1.jpg" download="">
-                <span>Download CV</span>
+              <a href="https://calendly.com/marcelinanowak_va/consultation-call?" target="_blank">
+                <span>Let's Have a Chat</span>
               </a>
             </li>
           </ul>

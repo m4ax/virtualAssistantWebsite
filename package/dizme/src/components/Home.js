@@ -20,7 +20,7 @@ const Home = ({ dark }) => {
           <div className="content">
             <div className="details">
               <div className="hello">
-                <h3 className="orangeText">{`Hey, I'm`}</h3>
+                <h3 className="titleText">{`Hey, I'm`}</h3>
               </div>
               <div className="name">
                 <h3>{data && data.name ? data.name : "name"}</h3>

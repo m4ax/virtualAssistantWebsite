@@ -25,8 +25,7 @@ const Skills = ({ dark }) => {
                 <span>Empowering Therapists</span>
                 <h3>Continuously Enhancing My Expertise</h3>
                 <p>
-                Leveraging the latest in administrative and digital solutions to ensure therapists can focus on what they do best: providing care.
-                </p>
+                I am proud to be a lifelong learner. By staying current with the latest administrative and digital tools, I am always looking for ways to assist you more effectively. This lets you focus on what you excel at: providing care.                </p>
               </div>
               <div
                 className="dodo_progress wow fadeInUp"
@@ -42,7 +41,7 @@ const Skills = ({ dark }) => {
                       key={i}
                     >
                       <span>
-                        <span className="label">{skill.name}</span>
+                        <span className="label">{skill.type}</span>
                         <span className="number">{skill.value}%</span>
                       </span>
                       <div className="background">

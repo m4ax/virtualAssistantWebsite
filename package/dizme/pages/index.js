@@ -46,7 +46,6 @@ const Index = () => {
       {/* <Partners /> */}
       {/* /PARTNERS */}
       {/* NEWS */}
-      <News />
       <Newsletter />
       <Contact />
     </Layout>

@@ -11,24 +11,23 @@ const About = ({ dark }) => {
                 <div className="numbers year">
                   <div className="wrapper">
                     <h3>
-                      <Counter end={18} />
+                      <Counter end={4} />
                     </h3>
                     <span className="name">
-                      Years of
+                      Maximum Number
                       <br />
-                      Success
+                      of Clients.
                     </span>
                   </div>
                 </div>
                 <div className="numbers project">
                   <div className="wrapper">
                     <h3>
-                      <Counter end={9} />K
-                    </h3>
+                      <Counter end={1200}/></h3>
                     <span className="name">
-                      Total
+                      Hours of
                       <br />
-                      Projects
+                      Social Work Study.
                     </span>
                   </div>
                 </div>
@@ -49,7 +48,7 @@ const About = ({ dark }) => {
                 data-wow-duration="1s"
               >
                 <a className="anchor" href="#contact">
-                  <span>Let's Have a Chat</span>
+                  <span>Contact Me</span>
                 </a>
               </div>
             </div>

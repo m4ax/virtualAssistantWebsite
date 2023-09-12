@@ -35,11 +35,12 @@ const Service = ({ dark }) => {
       <div className="dizme_tm_services">
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
-            <span>Services</span>
+            <span>Weekly Packages</span>
             <h3>What I Do for Clients</h3>
             <p>
-              Most common methods for designing websites that work well on
-              desktop is responsive and adaptive design
+            Our journey begins with a consultation to gauge our compatibility and pinpoint how I can best assist you. 
+            We'll reconvene monthly to ensure we're aligned and progressing effectively. 
+            These monthly consultations are inclusive of your package and are not charged.
             </p>
           </div>
           <div className="service_list">
@@ -74,9 +75,9 @@ const Service = ({ dark }) => {
                             )}
                           </span>
                           <div className="title">
-                            <h3>{data.title}</h3>
+                            {data.type}<h3>{data.title}</h3>
                             <span className="price">
-                              Starts from <span>${data.price}</span>
+                              <span>{data.price}</span>
                             </span>
                           </div>
                           <div className="text">
