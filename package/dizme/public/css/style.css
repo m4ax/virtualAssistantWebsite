@@ -2352,7 +2352,7 @@ h6 {
   clear: both;
   float: left;
   padding-top: 190px;
-  margin-bottom: 200px;
+  margin-bottom: 150px;
   position: relative;
 }
 .dizme_tm_contact .contact_inner {
@@ -2525,7 +2525,7 @@ input[type="number"] {
   clear: both;
   float: left;
   background-color: #f2f5fb;
-  padding: 57px 0px 61px 0px;
+  padding: 57px 0px 10px 0px;
 }
 .dizme_tm_copyright .inner {
   width: 100%;

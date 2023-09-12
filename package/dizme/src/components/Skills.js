@@ -21,6 +21,7 @@ const Skills = ({ dark }) => {
                 data-wow-duration="1s"
                 data-align="left"
               >
+              <br></br>
                 <span>Empowering Therapists</span>
                 <h3>Continuously Enhancing My Expertise</h3>
                 <p>
