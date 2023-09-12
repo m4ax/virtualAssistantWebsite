@@ -7,7 +7,7 @@ const About = ({ dark }) => {
           <div className="wrapper">
             <div className="left">
               <div className="image">
-                <img src={`img/about/${dark ? 2 : 1}.jpg`} alt="image" />
+                <img src={`img/about/${dark ? 2 : 1}.png`} alt="image" />
                 <div className="numbers year">
                   <div className="wrapper">
                     <h3>
@@ -36,17 +36,12 @@ const About = ({ dark }) => {
             </div>
             <div className="right">
               <div className="title wow fadeInUp" data-wow-duration="1s">
-                <span>{`I'm a Designer`}</span>
-                <h3>I Can Design Anything You Want</h3>
+                <span>{`About Me`}</span>
+                <h3>I Help Therapists Focus on What Matters</h3>
               </div>
               <div className="text wow fadeInUp" data-wow-duration="1s">
                 <p>
-                  {`Hello there! I'm a web designer, and I'm very passionate and
-                  dedicated to my work. With 20 years experience as a
-                  professional web developer, I have acquired the skills and
-                  knowledge necessary to make your project a success. I enjoy
-                  every step of the design process, from discussion and
-                  collaboration.`}
+                  {"Born in Poland and having moved to Cheltenham at a young age, I overcame language barriers to achieve a first-class degree in social work from a Birmingham university. My personal journey with therapy during university instilled in me a deep respect and emotional connection to the profession. Now, as a trained virtual assistant, I'm committed to supporting therapists in their administrative and social media needs, leveraging my personal insights and professional dedication."}
                 </p>
               </div>
               <div
@@ -54,7 +49,7 @@ const About = ({ dark }) => {
                 data-wow-duration="1s"
               >
                 <a className="anchor" href="#contact">
-                  <span>Hire Me</span>
+                  <span>Let's Have a Chat</span>
                 </a>
               </div>
             </div>

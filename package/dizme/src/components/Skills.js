@@ -21,11 +21,10 @@ const Skills = ({ dark }) => {
                 data-wow-duration="1s"
                 data-align="left"
               >
-                <span>Design is Life</span>
-                <h3>I Develop Skills Regularly to Keep Me Update</h3>
+                <span>Empowering Therapists</span>
+                <h3>Continuously Enhancing My Expertise</h3>
                 <p>
-                  Most common methods for designing websites that work well on
-                  desktop is responsive and adaptive design
+                Leveraging the latest in administrative and digital solutions to ensure therapists can focus on what they do best: providing care.
                 </p>
               </div>
               <div
@@ -55,7 +54,7 @@ const Skills = ({ dark }) => {
               </div>
             </div>
             <div className="right">
-              <img src={`img/skills/${dark ? 2 : 1}.jpg`} alt="image" />
+              <img src={`img/skills/${dark ? 2 : 1}.png`} alt="image" />
             </div>
           </div>
         </div>

@@ -11,10 +11,10 @@ const Contact = () => {
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
             <span>Contact Me</span>
-            <h3>I Want To Hear From You</h3>
+            <h3>Let's Discuss How I Can Help You</h3>
             <p>
               Please fill out the form on this section to contact with me. Or
-              call between 9:00 a.m. and 8:00 p.m. ET, Monday through Friday
+              call between 9:00 a.m. and 8:00 p.m, Monday through Saturday.
             </p>
           </div>
           <div className="contact_inner">
@@ -23,13 +23,13 @@ const Contact = () => {
                 <ul>
                   <li>
                     <div className="list_inner">
-                      <div className="icon orangeBackground">
+                      {/* <div className="icon orangeBackground">
                         <i className="icon-location orangeText" />
-                      </div>
-                      <div className="short">
+                      </div> */}
+                      {/* <div className="short">
                         <h3>Address</h3>
                         <span>{data.contact.address}</span>
-                      </div>
+                      </div> */}
                     </div>
                   </li>
                   <li>
@@ -47,13 +47,13 @@ const Contact = () => {
                   </li>
                   <li>
                     <div className="list_inner">
-                      <div className="icon purpleBackground">
+                      {/* <div className="icon purpleBackground">
                         <i className="icon-phone purpleText" />
                       </div>
                       <div className="short">
                         <h3>Phone</h3>
                         <span>{data.contact.phn}</span>
-                      </div>
+                      </div> */}
                     </div>
                   </li>
                 </ul>
@@ -121,12 +121,12 @@ const Contact = () => {
           <div className="dizme_tm_map wow fadeInUp" data-wow-duration="1s">
             <div className="mapouter">
               <div className="gmap_canvas">
-                <iframe
+                {/* <iframe
                   height={375}
                   style={{ width: "100%" }}
                   id="gmap_canvas"
                   src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed"
-                />
+                /> */}
                 <a href="https://www.embedgooglemap.net/blog/divi-discount-code-elegant-themes-coupon" />
                 <br />
               </div>
