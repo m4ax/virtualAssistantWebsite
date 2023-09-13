@@ -11,12 +11,12 @@ const About = ({ dark }) => {
                 <div className="numbers year">
                   <div className="wrapper">
                     <h3>
-                      <Counter end={4} />
+                      <Counter end={7} />
                     </h3>
                     <span className="name">
-                      Maximum Number
+                      Days a Week
                       <br />
-                      of Clients.
+                      of Availability.
                     </span>
                   </div>
                 </div>

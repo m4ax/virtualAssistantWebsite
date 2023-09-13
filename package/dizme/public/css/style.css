@@ -2361,10 +2361,14 @@ h6 {
 .dizme_tm_contact .contact_inner {
   width: 100%;
   display: flex;
+  justify-content: center; /* Centers children horizontally */
+  align-items: center; /* Centers children vertically */
+  flex-direction: column; /* Stacks children vertically */
   margin-top: 80px;
   margin-bottom: 182px;
   position: relative;
 }
+
 .dizme_tm_contact .left {
   width: 50%;
 }

@@ -97,12 +97,6 @@ const Testimonial = () => {
                 data-wow-delay="0.4s"
                 data-img-url="img/testimonials/3.jpg"
               />
-              <div
-                className="det_image four wow fadeIn"
-                data-wow-duration="1s"
-                data-wow-delay="0.6s"
-                data-img-url="img/testimonials/4.jpg"
-              />
               <span className="circle green animPulse" />
               <span className="circle yellow animPulse" />
               <span className="circle border animPulse" />

@@ -4,7 +4,7 @@
     "type": "Marketing",
     "price": "2-3 Posts/Week",
     "img": "img/service/1.jpg",
-    "shortDec": "Tailored weekly social media packages to keep your brand active, engaging, and relevant.",
+    "shortDec": "Starter Instagram management: 2-3 curated posts weekly, in-depth hashtag research, Instagram replies, and a monthly check-in call for consistent growth.",
     "icon": {
       "svg": "",
       "iconBg": "img/brushes/service/9.png"
@@ -18,81 +18,82 @@
   {
     "title": "Chamomile Ease",
     "type": "Marketing",
-    "price": "3-4 Posts + Stories + Engagement + Newsletter",
+    "price": "3-4 Posts + 2-3 Stories + Engagement + Newsletter",
     "img": "img/service/4.jpg",
-    "shortDec": "Tailored weekly social media packages to keep your brand active, engaging, and relevant.",
+    "shortDec": "Enhanced social engagement: 3-4 tailored posts and 2-3 stories weekly, full account engagement including messages and comment replies, plus a monthly newsletter to keep your audience informed and engaged.",
     "icon": {
       "svg": "",
       "iconBg": "img/brushes/service/2.png"
     },
     "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "Navigating the digital landscape as a therapist can be challenging. Our tailored social media packages are designed to help therapists like you establish a strong online presence, connect with potential clients, and share valuable insights.",
+      "Each package comes with a 30-minute monthly consultation to ensure your content resonates with your audience. Whether you choose the Lavender, Chamomile, or Eucalyptus package, you'll benefit from strategic post frequencies, engaging captions, and effective hashtag strategies.",
+      "If our standard packages don't quite fit your needs, don't hesitate to reach out for a custom solution. Together, we can craft a social media strategy that truly reflects your unique therapeutic approach."
     ]
   },
   {
     "title": "Eucalyptus Breeze",
     "type": "Marketing",
-    "price": "5-7 Posts + 3-4 Stoies + Engagement + Newsletter",
+    "price": "5-7 Posts + 3-4 Stories + Engagement + Newsletter",
     "img": "img/service/3.jpg",
-    "shortDec": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development",
+    "shortDec": "Premium social management: 5-7 posts weekly, 3-4 captivating stories, full account engagement including messages and comment replies, and a monthly newsletter for maximum reach and interaction.",
     "icon": {
       "svg": "",
       "iconBg": "img/brushes/service/3.png"
     },
     "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "Navigating the digital landscape as a therapist can be challenging. Our tailored social media packages are designed to help therapists like you establish a strong online presence, connect with potential clients, and share valuable insights.",
+      "Each package comes with a 30-minute monthly consultation to ensure your content resonates with your audience. Whether you choose the Lavender, Chamomile, or Eucalyptus package, you'll benefit from strategic post frequencies, engaging captions, and effective hashtag strategies.",
+      "If our standard packages don't quite fit your needs, don't hesitate to reach out for a custom solution. Together, we can craft a social media strategy that truly reflects your unique therapeutic approach."
     ]
   },
   {
     "title": "Blossom Care",
     "type": "Admin",
     "price": "3 hours per week",
-    "img": "img/service/2.jpg",
-    "shortDec": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development",
+    "img": "img/service/5.jpg",
+    "shortDec": "Dedicated admin support tailored for therapists. From billing to emails, I manage the details, allowing you to focus solely on your clients.",
     "icon": {
       "svg": "",
       "iconBg": "img/brushes/service/4.png"
     },
     "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
-    ]
+      "Managing the administrative aspects of therapy can often divert your focus from where it truly belongs: your clients. Our specialised admin packages are meticulously crafted to support therapists by handling the intricate details of billing, scheduling, emails, and more.",
+      "Rest assured, all administrative tasks I handle for you are conducted with strict GDPR compliance, ensuring that your client data is managed with the utmost care and confidentiality. Each package includes a 30-minute monthly consultation to align our administrative support with your evolving needs.",
+      "Opt for our admin support and let us manage the finer details, allowing you to dedicate your time and energy to your clients. If our standard offerings don't perfectly align with your requirements, we're more than happy to tailor a solution that seamlessly fits your practice."
+    ]    
   },
   {
     "title": "Petal Proficiency",
     "type": "Admin",
     "price": "5 hours per week",
-    "img": "img/service/2.jpg",
-    "shortDec": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development",
+    "img": "img/service/5.jpg",
+    "shortDec": "Dedicated admin support tailored for therapists. From billing to emails, I manage the details, allowing you to focus solely on your clients."
+    ,
     "icon": {
       "svg": "",
       "iconBg": "img/brushes/service/7.png"
     },
     "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
-    ]
+      "Managing the administrative aspects of therapy can often divert your focus from where it truly belongs: your clients. Our specialised admin packages are meticulously crafted to support therapists by handling the intricate details of billing, scheduling, emails, and more.",
+      "Rest assured, all administrative tasks I handle for you are conducted with strict GDPR compliance, ensuring that your client data is managed with the utmost care and confidentiality. Each package includes a 30-minute monthly consultation to align our administrative support with your evolving needs.",
+      "Opt for our admin support and let us manage the finer details, allowing you to dedicate your time and energy to your clients. If our standard offerings don't perfectly align with your requirements, we're more than happy to tailor a solution that seamlessly fits your practice."
+    ]    
   },
     {
     "title": "Floral Therapy",
     "type": "Admin",
     "price": "7 hours per week",
-    "img": "img/service/2.jpg",
-    "shortDec": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development",
+    "img": "img/service/5.jpg",
+    "shortDec": "The Eucalyptus package provides 7 hours of extensive admin support. I handle all your administrative tasks, and if our standard offering doesn't quite fit, we're open to crafting a custom solution tailored to your needs.",
     "icon": {
       "svg": "",
       "iconBg": "img/brushes/service/8.png"
   },  
-    "dec": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
-    ]
+  "dec": [
+    "Managing the administrative aspects of therapy can often divert your focus from where it truly belongs: your clients. Our specialised admin packages are meticulously crafted to support therapists by handling the intricate details of billing, scheduling, emails, and more.",
+    "Rest assured, all administrative tasks I handle for you are conducted with strict GDPR compliance, ensuring that your client data is managed with the utmost care and confidentiality. Each package includes a 30-minute monthly consultation to align our administrative support with your evolving needs.",
+    "Opt for our admin support and let us manage the finer details, allowing you to dedicate your time and energy to your clients. If our standard offerings don't perfectly align with your requirements, we're more than happy to tailor a solution that seamlessly fits your practice."
+  ]  
   }
 ]

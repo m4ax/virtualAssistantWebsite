@@ -13,7 +13,7 @@ const Contact = () => {
             <span>Contact Me</span>
             <h3>Let&apos;s Discuss How I Can Help You</h3>
             <p>
-              Please do get in touch with me if you wish to discuss further. We can chat between 9:00 a.m. and 8:00 p.m, Monday through Saturday.
+              Please do get in touch with me if you wish to discuss further. We can chat between 9:00 a.m. and 8:00 p.m, Monday through Sunday.
             </p>
           </div>
           <div className="contact_inner">
@@ -39,11 +39,13 @@ const Contact = () => {
                       <div className="short">
                         <h3>Email</h3>
                         <span>
-                          <a href="#">{data.contact.email}</a>
+                          <a>{data.contact.email}</a>
                         </span>
                       </div>
                     </div>
                   </li>
+                  <br></br>
+                  <br></br>
                   <li>
                     <div className="list_inner">
                       <div className="icon purpleBackground">
