@@ -38,9 +38,9 @@ const Service = ({ dark }) => {
             <span>Weekly Packages</span>
             <h3>What I Do for Clients</h3>
             <p>
-            Our journey begins with a consultation to gauge our compatibility and pinpoint how I can best assist you. 
-            We'll reconvene monthly to ensure we're aligned and progressing effectively. 
-            These monthly consultations are inclusive of your package and are not charged.
+                 Our journey begins with a consultation to gauge our compatibility and pinpoint how I can best assist you. 
+                 We will reconvene monthly to ensure we are aligned and progressing effectively. 
+                 These monthly consultations are inclusive of your package and are not charged.
             </p>
           </div>
           <div className="service_list">
