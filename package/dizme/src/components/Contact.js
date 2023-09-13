@@ -11,7 +11,7 @@ const Contact = () => {
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
             <span>Contact Me</span>
-            <h3>Let's Discuss How I Can Help You</h3>
+            <h3>Let&apos;s Discuss How I Can Help You</h3>
             <p>
               Please do get in touch with me if you wish to discuss further. We can chat between 9:00 a.m. and 8:00 p.m, Monday through Saturday.
             </p>
