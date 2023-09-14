@@ -174,7 +174,7 @@ h6 {
   width: 50%;
   height: 100%;
   z-index: -1;
-  background-color: #000;
+  background-color: #8ac0ff  ;
   -webkit-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
@@ -2279,7 +2279,7 @@ h6 {
   bottom: 0px;
   left: 0px;
   right: 0px;
-  background-color: rgba(128, 103, 240, 0.92);
+  background-color: rgba(138, 192, 255, 0.92);
   z-index: 1;
   border-radius: 12px;
 }

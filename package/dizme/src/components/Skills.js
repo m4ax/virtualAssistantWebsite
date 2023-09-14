@@ -23,9 +23,9 @@ const Skills = ({ dark }) => {
               >
               <br></br>
                 <span>Empowering Therapists</span>
-                <h3>Continuously Enhancing My Expertise</h3>
+                <h3>I am proud to be a lifelong learner.</h3>
                 <p>
-                I am proud to be a lifelong learner. By staying current with the latest administrative and digital tools, I am always looking for ways to assist you more effectively. This lets you focus on what you excel at: providing care.                </p>
+                By staying current with the latest administrative and digital tools, I am always looking for ways to assist you more effectively. This lets you focus on what you excel at: providing care.                </p>
               </div>
               <div
                 className="dodo_progress wow fadeInUp"
