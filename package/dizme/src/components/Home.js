@@ -46,7 +46,7 @@ const Home = ({ dark }) => {
                       data.social &&
                       data.social.map((social, i) => (
                         <li key={i}>
-                          <a href={data.social[i].url} target="_blank">
+                          <a href={data.social[i].url} target="_blank" rel="noreferrer">
                             <i className={social.icon} />
                           </a>
                         </li>
