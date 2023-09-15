@@ -25,7 +25,7 @@ const Newsletter = () => {
                 </div>
                 <div className="right wow fadeInRight" data-wow-duration="1s">
                   <div className="field">
-                    <input type="text" placeholder="Your email here" />
+                    <input type="text" placeholder="Your email" />
                     <input type="submit" defaultValue="Send Now" />
                   </div>
                 </div>
