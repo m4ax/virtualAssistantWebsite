@@ -30,7 +30,7 @@ const Testimonial = () => {
           <span>Testimonials</span>
           <h3>What My Clients Say</h3>
           <p>
-          Discover the experience of those who've collaborated with me.
+          Discover the experience of those who have collaborated with me.
           </p>
         </div>
         <div className="list_wrapper">
