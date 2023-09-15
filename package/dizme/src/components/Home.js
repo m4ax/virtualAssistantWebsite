@@ -23,7 +23,7 @@ const Home = ({ dark }) => {
                 <h3 className="titleText">{`Hey, I'm`}</h3>
               </div>
               <div className="name">
-                <h3>{data && data.name ? data.name : "name"}</h3>
+                <h3>{data && data.name ? data.name : "Marcelina"}</h3>
               </div>
               <div className="job">
                 <p>

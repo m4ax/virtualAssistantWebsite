@@ -13,7 +13,7 @@ const Contact = () => {
             <span>Contact Me</span>
             <h3>Let&apos;s Discuss How I Can Help You</h3>
             <p>
-              Please do get in touch with me if you wish to discuss further. We can chat between 9:00 a.m. and 8:00 p.m, Monday through Sunday.
+              Please do get in touch with me if you wish to discuss further. We can chat between 6:00 a.m. and 4:00 p.m, Monday through Sunday.
             </p>
           </div>
           <div className="contact_inner">
