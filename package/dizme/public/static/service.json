@@ -1,99 +1,82 @@
 [
   {
-    "title": "Lavender Loom",
+    "title": "Starter",
     "type": "Marketing",
-    "price": "2-3 Posts/Week",
+    "price": "10 Posts/Month + Hashtag Research + Engagement + Monthly Report",
     "img": "img/service/1.jpg",
-    "shortDec": "Starter Instagram management: 2-3 curated posts weekly, in-depth hashtag research, Instagram replies, and a monthly check-in call for consistent growth.",
-    "icon": {
-      "svg": "",
-      "iconBg": "img/brushes/service/9.png"
-    },
-    "dec": [
-      "Navigating the digital landscape as a therapist can be challenging. Our tailored social media packages are designed to help therapists like you establish a strong online presence, connect with potential clients, and share valuable insights.",
-      "Each package comes with a 30-minute monthly consultation to ensure your content resonates with your audience. Whether you choose the Lavender, Chamomile, or Eucalyptus package, you'll benefit from strategic post frequencies, engaging captions, and effective hashtag strategies.",
-      "If our standard packages don't quite fit your needs, don't hesitate to reach out for a custom solution. Together, we can craft a social media strategy that truly reflects your unique therapeutic approach."
-    ]
-  },
-  {
-    "title": "Chamomile Ease",
-    "type": "Marketing",
-    "price": "3-4 Posts + 2-3 Stories + Engagement + Newsletter",
-    "img": "img/service/4.jpg",
-    "shortDec": "Enhanced social engagement: 3-4 tailored posts and 2-3 stories weekly, full account engagement including messages and comment replies, plus a monthly newsletter to keep your audience informed and engaged.",
-    "icon": {
-      "svg": "",
-      "iconBg": "img/brushes/service/2.png"
-    },
-    "dec": [
-      "Navigating the digital landscape as a therapist can be challenging. Our tailored social media packages are designed to help therapists like you establish a strong online presence, connect with potential clients, and share valuable insights.",
-      "Each package comes with a 30-minute monthly consultation to ensure your content resonates with your audience. Whether you choose the Lavender, Chamomile, or Eucalyptus package, you'll benefit from strategic post frequencies, engaging captions, and effective hashtag strategies.",
-      "If our standard packages don't quite fit your needs, don't hesitate to reach out for a custom solution. Together, we can craft a social media strategy that truly reflects your unique therapeutic approach."
-    ]
-  },
-  {
-    "title": "Eucalyptus Breeze",
-    "type": "Marketing",
-    "price": "5-7 Posts + 3-4 Stories + Engagement + Newsletter",
-    "img": "img/service/3.jpg",
-    "shortDec": "Premium social management: 5-7 posts weekly, 3-4 captivating stories, full account engagement including messages and comment replies, and a monthly newsletter for maximum reach and interaction.",
+    "shortDec": "Starter Instagram management: 10 posts per month, in-depth hashtag research, Instagram replies (comments and messages), monthly analytics report.",
     "icon": {
       "svg": "",
       "iconBg": "img/brushes/service/3.png"
     },
     "dec": [
-      "Navigating the digital landscape as a therapist can be challenging. Our tailored social media packages are designed to help therapists like you establish a strong online presence, connect with potential clients, and share valuable insights.",
-      "Each package comes with a 30-minute monthly consultation to ensure your content resonates with your audience. Whether you choose the Lavender, Chamomile, or Eucalyptus package, you'll benefit from strategic post frequencies, engaging captions, and effective hashtag strategies.",
-      "If our standard packages don't quite fit your needs, don't hesitate to reach out for a custom solution. Together, we can craft a social media strategy that truly reflects your unique therapeutic approach."
+      "Navigating the digital landscape can be challenging. Our tailored social media packages are designed to help businesses establish a strong online presence, connect with potential customers, and share valuable insights.",
+      "Each package comes with a 30-minute monthly consultation to ensure your content resonates with your audience. Benefit from strategic post frequencies, engaging captions, and effective hashtag strategies.",
+      "If our standard packages don't quite fit your needs, don't hesitate to reach out for a custom solution. Together, we can craft a social media strategy that truly reflects your unique approach."
     ]
   },
   {
-    "title": "Blossom Care",
+    "title": "Growth",
+    "type": "Marketing",
+    "price": "16 Posts/Stories + Daily Engagement + Hastag Research + Monthly Report",
+    "img": "img/service/4.jpg",
+    "shortDec": "Enhanced social engagement: 16 posts or stories, full daily account engagement including messages and comment replies, hashtag & caption research, monthly report with progress and growth.",
+    "icon": {
+      "svg": "",
+      "iconBg": "img/brushes/service/3.png"
+    },
+    "dec": [
+      "Navigating the digital landscape can be challenging. Our tailored social media packages are designed to help businesses establish a strong online presence, connect with potential customers, and share valuable insights.",
+      "Each package comes with a 30-minute monthly consultation to ensure your content resonates with your audience. Benefit from strategic post frequencies, engaging captions, and effective hashtag strategies.",
+      "If our standard packages don't quite fit your needs, don't hesitate to reach out for a custom solution. Together, we can craft a social media strategy that truly reflects your unique approach."
+    ]
+  },
+  {
+    "title": "Elite ",
+    "type": "Marketing",
+    "price": "28 Posts/Stories + Daily Engagement + Hashtag Research + Monthly Report + Monthly Email Newsletter",
+    "img": "",
+    "shortDec": "Premium social management: 28 posts/stories, full account engagement, caption & hashtag research, monthly status report and a monthly newsletter for maximum reach and interaction.",
+    "icon": {
+      "svg": "",
+      "iconBg": "img/brushes/service/3.png"
+    },
+    "dec": [
+      "Navigating the digital landscape can be challenging. Our tailored social media packages are designed to help businesses establish a strong online presence, connect with potential customers, and share valuable insights.",
+      "Each package comes with a 30-minute monthly consultation to ensure your content resonates with your audience. Benefit from strategic post frequencies, engaging captions, and effective hashtag strategies.",
+      "If our standard packages don't quite fit your needs, don't hesitate to reach out for a custom solution. Together, we can craft a social media strategy that truly reflects your unique approach."
+    ]
+  },
+  {
+    "title": "Executive Admin Support",
     "type": "Admin",
-    "price": "3 hours per week",
+    "price": "£25/hour",
     "img": "img/service/5.jpg",
-    "shortDec": "Dedicated admin support tailored for therapists. From billing to emails, I manage the details, allowing you to focus solely on your clients.",
+    "shortDec": "Dedicated admin support tailored for businesses. From billing to emails, I manage the details, allowing you to focus on solving problems.",
     "icon": {
       "svg": "",
       "iconBg": "img/brushes/service/4.png"
     },
     "dec": [
-      "Managing the administrative aspects of therapy can often divert your focus from where it truly belongs: your clients. Our specialised admin packages are meticulously crafted to support therapists by handling the intricate details of billing, scheduling, emails, and more.",
-      "Rest assured, all administrative tasks I handle for you are conducted with strict GDPR compliance, ensuring that your client data is managed with the utmost care and confidentiality. Each package includes a 30-minute monthly consultation to align our administrative support with your evolving needs.",
-      "Opt for our admin support and let us manage the finer details, allowing you to dedicate your time and energy to your clients. If our standard offerings don't perfectly align with your requirements, we're more than happy to tailor a solution that seamlessly fits your practice."
+      "Managing the administrative aspects can often divert your focus from core tasks. Our specialised admin packages are meticulously crafted to support businesses by handling the intricate details of billing, scheduling, emails, and more.",
+      "Rest assured, all administrative tasks I handle for you are conducted with strict GDPR compliance, ensuring that data is managed with the utmost care and confidentiality. Each package includes a 30-minute monthly consultation to align our administrative support with your evolving needs.",
+      "Opt for our admin support and let us manage the finer details, allowing you to dedicate your time and energy to your business. If our standard offerings don't perfectly align with your requirements, we're more than happy to tailor a solution that seamlessly fits your operations."
     ]    
   },
   {
-    "title": "Petal Proficiency",
-    "type": "Admin",
-    "price": "5 hours per week",
+    "title": "Tailored Package",
+    "type": "Custom",
+    "price": "Tell me what you need.",
     "img": "img/service/5.jpg",
-    "shortDec": "Dedicated admin support tailored for therapists. From billing to emails, I manage the details, allowing you to focus solely on your clients."
-    ,
+    "shortDec": "Tailored package specific to your needs.",
     "icon": {
       "svg": "",
-      "iconBg": "img/brushes/service/7.png"
+      "iconBg": "img/brushes/service/4.png"
     },
     "dec": [
-      "Managing the administrative aspects of therapy can often divert your focus from where it truly belongs: your clients. Our specialised admin packages are meticulously crafted to support therapists by handling the intricate details of billing, scheduling, emails, and more.",
-      "Rest assured, all administrative tasks I handle for you are conducted with strict GDPR compliance, ensuring that your client data is managed with the utmost care and confidentiality. Each package includes a 30-minute monthly consultation to align our administrative support with your evolving needs.",
-      "Opt for our admin support and let us manage the finer details, allowing you to dedicate your time and energy to your clients. If our standard offerings don't perfectly align with your requirements, we're more than happy to tailor a solution that seamlessly fits your practice."
+      "Managing the administrative aspects can often divert your focus from core tasks. Our specialised admin packages are meticulously crafted to support businesses by handling the intricate details of billing, scheduling, emails, and more.",
+      "Rest assured, all administrative tasks I handle for you are conducted with strict GDPR compliance, ensuring that data is managed with the utmost care and confidentiality. Each package includes a 30-minute monthly consultation to align our administrative support with your evolving needs.",
+      "Opt for our admin support and let us manage the finer details, allowing you to dedicate your time and energy to your business. If our standard offerings don't perfectly align with your requirements, we're more than happy to tailor a solution that seamlessly fits your operations."
     ]    
-  },
-    {
-    "title": "Floral Therapy",
-    "type": "Admin",
-    "price": "7 hours per week",
-    "img": "img/service/5.jpg",
-    "shortDec": "The Eucalyptus package provides 7 hours of extensive admin support. I handle all your administrative tasks, and if our standard offering doesn't quite fit, we're open to crafting a custom solution tailored to your needs.",
-    "icon": {
-      "svg": "",
-      "iconBg": "img/brushes/service/8.png"
-  },  
-  "dec": [
-    "Managing the administrative aspects of therapy can often divert your focus from where it truly belongs: your clients. Our specialised admin packages are meticulously crafted to support therapists by handling the intricate details of billing, scheduling, emails, and more.",
-    "Rest assured, all administrative tasks I handle for you are conducted with strict GDPR compliance, ensuring that your client data is managed with the utmost care and confidentiality. Each package includes a 30-minute monthly consultation to align our administrative support with your evolving needs.",
-    "Opt for our admin support and let us manage the finer details, allowing you to dedicate your time and energy to your clients. If our standard offerings don't perfectly align with your requirements, we're more than happy to tailor a solution that seamlessly fits your practice."
-  ]  
   }
 ]

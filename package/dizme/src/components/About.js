@@ -36,11 +36,11 @@ const About = ({ dark }) => {
             <div className="right">
               <div className="title wow fadeInUp" data-wow-duration="1s">
                 <span>{`About Me`}</span>
-                <h3>I Help Therapists Focus on What Matters</h3>
+                <h3>I Help You Focus on What Matters</h3>
               </div>
               <div className="text wow fadeInUp" data-wow-duration="1s">
                 <p>
-                  {"Born in Poland and having moved to Cheltenham at a young age, I overcame language barriers to achieve a first-class degree in social work from a Birmingham university. My personal journey with therapy during university instilled in me a deep respect and emotional connection to the profession. Now, as a trained virtual assistant, I'm committed to supporting therapists in their administrative and social media needs, leveraging my personal insights and professional dedication."}
+                  {"Born in Poland and having moved to Cheltenham at a young age, I overcame language barriers to achieve a first-class degree in social work from a Birmingham university. Now, as a trained virtual assistant, I'm committed to supporting therapists in their administrative and social media needs, leveraging my personal insights and professional dedication."}
                 </p>
               </div>
               <div

@@ -28,7 +28,7 @@ const Home = ({ dark }) => {
               <div className="job">
                 <p>
                   A <span className="greenText">{data && data.mainSkill}</span>{" "}
-                  For <span className="purpleText">Therapists</span>
+                  For <span className="purpleText">Busy Professionals</span>
                 </p>
               </div>
               <div className="text">
