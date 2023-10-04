@@ -40,7 +40,7 @@ const About = ({ dark }) => {
               </div>
               <div className="text wow fadeInUp" data-wow-duration="1s">
                 <p>
-                  {"Born in Poland and having moved to Cheltenham at a young age, I overcame language barriers to achieve a first-class degree in social work from a Birmingham university. Now, as a trained virtual assistant, I'm committed to supporting therapists in their administrative and social media needs, leveraging my personal insights and professional dedication."}
+                  {"Born in Poland and having moved to Cheltenham at a young age, I overcame language barriers to achieve a first-class degree in social work from a Birmingham university. Now, as a trained virtual assistant, I'm committed to supporting professionals in their administrative and social media needs, leveraging my personal insights and professional dedication."}
                 </p>
               </div>
               <div
