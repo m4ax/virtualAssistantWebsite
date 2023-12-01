@@ -21,8 +21,7 @@ const Service = ({ dark }) => {
   }, []);
 
   const onClick = (index) => {
-    setPopup(true);
-    setPopupdata(data && data[index]);
+    console.log("clicked")
   };
 
   return (
@@ -83,7 +82,7 @@ const Service = ({ dark }) => {
                           <div className="text">
                             <p>{data.shortDec}</p>
                           </div>
-                          <a className="dizme_tm_full_link" href="#" />
+                          <a className="dizme_tm_full_link"/>
                           <img
                             className="popup_service_image"
                             src="img/service/1.jpg"

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://marcelina.co.uk
+
+# Sitemaps
+Sitemap: https://marcelina.co.uk/sitemap.xml

@@ -1,10 +1,10 @@
 [
   {
     "title": "Starter",
-    "type": "Marketing",
-    "price": "10 Posts/Month + Hashtag Research + Engagement + Monthly Report",
+    "type": "Social Media",
+    "price": "1 Platform, 3 Posts/week, Caption Writing, Hashtags, Scheduling, Monlthy Call",
     "img": "img/service/1.jpg",
-    "shortDec": "Starter Instagram management: 10 posts per month, in-depth hashtag research, Instagram replies (comments and messages), monthly analytics report.",
+    "shortDec": "Starter Instagram management: 3 weekly posts, in-depth hashtag research , monthly analytics report.",
     "icon": {
       "svg": "",
       "iconBg": "img/brushes/service/3.png"
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "title": "Growth",
-    "type": "Marketing",
-    "price": "16 Posts/Stories + Daily Engagement + Hastag Research + Monthly Report",
+    "title": "Pro",
+    "type": "Social Media",
+    "price": "2 Platforms, 4 Posts/week, Caption Writing16 Posts/Stories + Daily Engagement + Hastag Research + Monthly Report",
     "img": "img/service/4.jpg",
     "shortDec": "Enhanced social engagement: 16 posts or stories, full daily account engagement including messages and comment replies, hashtag & caption research, monthly report with progress and growth.",
     "icon": {
