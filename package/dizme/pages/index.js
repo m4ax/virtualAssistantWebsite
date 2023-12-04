@@ -20,7 +20,11 @@ const Index = () => {
   return (
     <Layout>
       <Head>
-        <title>Marcelina | Home</title>
+        <title>Marcelina | Virtual Assistant Cheltenham</title>
+        <meta
+  name="description"
+  content="Hey, I'm a virtual personal assistant, specialising in social media, email marketing and admin work. I am based in Gloucestershire."
+/>;
       </Head>
       <Home />
       {/* HERO */}
