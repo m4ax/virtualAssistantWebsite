@@ -50,7 +50,7 @@ const Index = () => {
       {/* <Partners /> */}
       {/* /PARTNERS */}
       {/* NEWS */}
-      <Newsletter />
+      {/* <Newsletter /> */}
       <Contact />
     </Layout>
   );
