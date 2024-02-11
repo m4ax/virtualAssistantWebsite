@@ -10,7 +10,7 @@ const Process = ({ dark }) => {
     <div className="dizme_tm_section" id="process">
     
     <div className="dizme_tm_main_title" data-align="center">
-      <h3>My Process</h3>
+      <h3>Our Journey</h3>
     </div>
       <div className="dizme_tm_process">
       
