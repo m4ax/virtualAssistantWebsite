@@ -8,7 +8,12 @@ const Process = ({ dark }) => {
   }, []);
   return (
     <div className="dizme_tm_section" id="process">
+    
+    <div className="dizme_tm_main_title" data-align="center">
+      <h3>My Process</h3>
+    </div>
       <div className="dizme_tm_process">
+      
         <div className="container">
           <div className="list">
             <ul>

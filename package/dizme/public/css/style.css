@@ -788,6 +788,7 @@ h6 {
   height: auto;
   clear: both;
   float: left;
+  padding-top: 80px;
 }
 .dizme_tm_process .list {
   width: 100%;
