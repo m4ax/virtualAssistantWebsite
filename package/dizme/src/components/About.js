@@ -43,7 +43,7 @@ const About = ({ dark }) => {
                   {"I believe in making a difference, not just working a 9-to-5. That's why I started my business. After studying social work, I wanted more than a typical office job. So, I traveled Southeast Asia, and that experience changed my life. Now, I help entrepreneurs like you build successful businesses while making a positive impact."}
                   <br></br>
                   <br></br>
-                  {"Here's how I can help: I'll work with you to develop a clear strategy, define your goals, and create a plan to achieve them. Then, I'll guide you through scaling your business so you can grow sustainably. Most importantly, I offer genuine support because my priority is your success. I'm not just a consultant, I'm a partner invested in your journey."}
+                  {"Here's how I can help: I'll work with you to develop a clear strategy, define your goals, and create a plan to achieve them. We'll focus on your ideal client and how to target them. Most importantly, I offer genuine support because my priority is your success. I'm not just a consultant, I'm a partner invested in your journey."}
                   <br></br>
                   <br></br>
                   {"Let's build something great together!"}
