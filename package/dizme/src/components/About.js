@@ -40,7 +40,13 @@ const About = ({ dark }) => {
               </div>
               <div className="text wow fadeInUp" data-wow-duration="1s">
                 <p>
-                  {"I launched my business fuelled by a belief in more than the 9-5 grind and a lifelong passion for helping others. After studying Social Work at university, I faced a crossroad: the office life or daring adventure of travelling around Southeast Asia. Choosing adventure led me to where I am today, grateful to have built a business that allows me to support incredible entrepreneurs. My mission is to get your strategy right and help you scale your business. What sets me apart? You’re not just a client; you’re a business I’m genuinely committed to supporting."}
+                  {"I believe in making a difference, not just working a 9-to-5. That's why I started my business. After studying social work, I wanted more than a typical office job. So, I traveled Southeast Asia, and that experience changed my life. Now, I help entrepreneurs like you build successful businesses while making a positive impact."}
+                  <br></br>
+                  <br></br>
+                  {"Here's how I can help: I'll work with you to develop a clear strategy, define your goals, and create a plan to achieve them. Then, I'll guide you through scaling your business so you can grow sustainably. Most importantly, I offer genuine support because my priority is your success. I'm not just a consultant, I'm a partner invested in your journey."}
+                  <br></br>
+                  <br></br>
+                  {"Let's build something great together!"}
                 </p>
               </div>
               <div
