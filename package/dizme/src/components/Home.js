@@ -34,10 +34,7 @@ const Home = ({ dark }) => {
               <div className="text">
                 <p>I work with business owners who truly understand the value of a
 strong social media presence, one that reflects on their business’
-values and ethos.</p> <br></br><p>
-My method involves; getting to know you, your business and your
-ambitions – so I can develop a content strategy that resonates
-deeply with your vision and primarily targets your ideal client.</p>
+values and ethos.</p>
               </div>
               <div className="button">
                 <div className="dizme_tm_button">
