@@ -2,9 +2,9 @@
   {
     "title": "Starter",
     "type": "Social Media",
-    "price": "1 Platform, 3 Posts/week, Caption Writing, Hashtags, Scheduling, Monlthy Call",
+    "price": "1 Platform, 3 Posts/week, Caption Writing, Appropriate Hashtags, Scheduling, Monlthy Call",
     "img": "img/service/1.jpg",
-    "shortDec": "Starter Instagram management: 3 weekly posts, in-depth hashtag research , monthly analytics report.",
+    "shortDec": "Good for just starting out.",
     "icon": {
       "svg": "",
       "iconBg": "img/brushes/service/3.png"
@@ -18,9 +18,9 @@
   {
     "title": "Pro",
     "type": "Social Media",
-    "price": "2 Platforms, 4 Posts/week, Caption Writing16 Posts/Stories + Daily Engagement + Hastag Research + Monthly Report",
+    "price": "2 Platforms, 4 Posts/week, Caption Writing, Appropriate Hashtags, Scheduling Posts, Monthly Call",
     "img": "img/service/4.jpg",
-    "shortDec": "Enhanced social engagement: 16 posts or stories, full daily account engagement including messages and comment replies, hashtag & caption research, monthly report with progress and growth.",
+    "shortDec": "Perfect if you're looking to grow your social media presence.",
     "icon": {
       "svg": "",
       "iconBg": "img/brushes/service/3.png"
@@ -32,11 +32,11 @@
     ]
   },
   {
-    "title": "Elite ",
-    "type": "Marketing",
-    "price": "28 Posts/Stories + Daily Engagement + Hashtag Research + Monthly Report + Monthly Email Newsletter",
+    "title": "Elite",
+    "type": "Social Media",
+    "price": "3 Platforms, 6 Posts per week, Caption Writing, Appropriate Hashtags, Scheduling Posts, Monthly Call, 30 Minutes of Engagement Per Week",
     "img": "",
-    "shortDec": "Premium social management: 28 posts/stories, full account engagement, caption & hashtag research, monthly status report and a monthly newsletter for maximum reach and interaction.",
+    "shortDec": "For businesses looking to achieve omnipresence on social media.",
     "icon": {
       "svg": "",
       "iconBg": "img/brushes/service/3.png"
@@ -48,11 +48,27 @@
     ]
   },
   {
-    "title": "Executive Admin Support",
-    "type": "Admin",
-    "price": "£25/hour",
+    "title": "Standard",
+    "type": "Email Marketing",
+    "price": "Initial Platform Setup, Custom Email Design, Welcome Email Series, 1 Email per Week, Custom Email Strategy",
     "img": "img/service/5.jpg",
-    "shortDec": "Dedicated admin support tailored for businesses. From billing to emails, I manage the details, allowing you to focus on solving problems.",
+    "shortDec": "Perfect if you’re looking to successfully start email marketing.",
+    "icon": {
+      "svg": "",
+      "iconBg": "img/brushes/service/4.png"
+    },
+    "dec": [
+      "Managing the administrative aspects can often divert your focus from core tasks. Our specialised admin packages are meticulously crafted to support businesses by handling the intricate details of billing, scheduling, emails, and more.",
+      "Rest assured, all administrative tasks I handle for you are conducted with strict GDPR compliance, ensuring that data is managed with the utmost care and confidentiality. Each package includes a 30-minute monthly consultation to align our administrative support with your evolving needs.",
+      "Opt for our admin support and let us manage the finer details, allowing you to dedicate your time and energy to your business. If our standard offerings don't perfectly align with your requirements, we're more than happy to tailor a solution that seamlessly fits your operations."
+    ]    
+  },
+  {
+    "title": "Supreme",
+    "type": "Email Marketing",
+    "price": "Standard + Goals for the Quarter, Monthly Analytics Report, Newsletter Creation, Ongoing Maintenance for Sequences",
+    "img": "img/service/5.jpg",
+    "shortDec": "Quarterly package for consistency and growth",
     "icon": {
       "svg": "",
       "iconBg": "img/brushes/service/4.png"
@@ -67,11 +83,11 @@
     "title": "Tailored Package",
     "type": "Custom",
     "price": "Tell me what you need.",
-    "img": "img/service/5.jpg",
+    "img": "img/service/1.jpg",
     "shortDec": "Tailored package specific to your needs.",
     "icon": {
       "svg": "",
-      "iconBg": "img/brushes/service/4.png"
+      "iconBg": "img/brushes/service/2.png"
     },
     "dec": [
       "Managing the administrative aspects can often divert your focus from core tasks. Our specialised admin packages are meticulously crafted to support businesses by handling the intricate details of billing, scheduling, emails, and more.",

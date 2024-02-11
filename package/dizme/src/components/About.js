@@ -8,7 +8,7 @@ const About = ({ dark }) => {
             <div className="left">
               <div className="image">
                 <img src={`img/about/${dark ? 2 : 1}.png`} alt="image" />
-                <div className="numbers year">
+                {/* <div className="numbers year">
                   <div className="wrapper">
                     <h3>
                       <Counter end={7} />
@@ -30,7 +30,7 @@ const About = ({ dark }) => {
                       Social Work Study.
                     </span>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
             <div className="right">
@@ -40,7 +40,7 @@ const About = ({ dark }) => {
               </div>
               <div className="text wow fadeInUp" data-wow-duration="1s">
                 <p>
-                  {"Born in Poland and having moved to Cheltenham at a young age, I overcame language barriers to achieve a first-class degree in social work from a Birmingham university. Now, as a trained virtual assistant, I'm committed to supporting professionals in their administrative and social media needs, leveraging my personal insights and professional dedication."}
+                  {"I launched my business fuelled by a belief in more than the 9-5 grind and a lifelong passion for helping others. After studying Social Work at university, I faced a crossroad: the office life or daring adventure of travelling around Southeast Asia. Choosing adventure led me to where I am today, grateful to have built a business that allows me to support incredible entrepreneurs. My mission is to get your strategy right and help you scale your business. What sets me apart? You’re not just a client; you’re a business I’m genuinely committed to supporting."}
                 </p>
               </div>
               <div
