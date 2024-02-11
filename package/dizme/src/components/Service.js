@@ -35,7 +35,7 @@ const Service = ({ dark }) => {
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
             <span>Weekly Packages</span>
-            <h3>What I Do for Clients</h3>
+            <h3>How we can work Together</h3>
             <p>
                  Our journey begins with a consultation to gauge our compatibility and pinpoint how I can best assist you. 
                  We will reconvene monthly to ensure we are aligned and progressing effectively. 

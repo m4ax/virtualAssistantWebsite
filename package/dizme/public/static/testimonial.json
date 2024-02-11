@@ -1,8 +1,27 @@
 [
   {
-    "name": "Max Murray",
-    "img": "img/testimonials/4.jpg",
+    "name": "Agnes",
+    "img": "/img/testimonials/agnes.png",
+    "profession": "Agnes B. Coaching",
+    "details": "I was struggling with regular posting on social media and ensuring that my posts aligned with my brand’s style and image. I met Marcelina on IG and I must say, from that day my life has changed in so many positive ways! She has confidently and professionally taken over my social media channels, and scheduled content for the next few weeks. Her positivity and can-do attitude are inspiring and influencing. Working with Marcelina has saved me a significant amount of time and headspace. My business now presents a more professional image, which has made a noticeable difference, in terms of an increase in engagement and followers on my social media platforms."
+  },
+  {
+    "name": "Julia",
+    "img": "/img/testimonials/house.jpg",
+    "profession": "Director, The House Ministry",
+    "details": "I needed someone who could proactively create and post our social media content, and marce has taken great care to really understand my business and what I wanted to achieve. Marce is extremely proactive and really cares about the end result for us, which better than expected. I love how she produces little reports and suggests ways to demonstrate how we can improve our engagement and relevance to our target market. She is friendly and approachable but also very professional. the relief at bein g able to trust her to interpret our brand message is enormous and very freeing of both time and stress."
+  },
+  {
+    "name": "Holly",
+    "img": "/img/testimonials/optimism.png",
+    "profession": "Optimism therapy",
+    "details": "Marcelina, you've worked tirelessly this month to grasp the essence of my business and forge a unique brand identity for me. I want to express how impressed I've been with the transformation you've achieved on my page and the content you've developed. It's truly elevated my site, enhancing its professionalism while capturing my authenticity. For that, I am incredibly thankful. Your efforts this month have provided me with valuable insights into what it takes to maintain a consistent social media presence. It's been an enlightening experience, and I appreciate it greatly."
+  },
+  {
+    "name": "Max",
+    "img": "/img/testimonials/4.jpg",
     "profession": "Director, Dream",
     "details": "Working with Marcelina has been a transformative experience for me. Her genuine joy and care shine through in every interaction, making her a pleasure to collaborate with. What sets Marcelina apart is her commitment to excellence. Everything she does is to her own high standard. I love it. I wish I had got someone sooner."
   }
 ]
+
