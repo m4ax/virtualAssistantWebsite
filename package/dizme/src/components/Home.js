@@ -27,8 +27,8 @@ const Home = ({ dark }) => {
               </div>
               <div className="job">
                 <p>
-                  <span className="greenText">A Social Media Manager From</span>{" "}
-                  <span className="purpleText">Cheltenham.</span>
+                  <span className="subTitleText">A Social Media Manager From</span>{" "}
+                  <span className="subTitleText">Cheltenham.</span>
                 </p>
               </div>
               <div className="text">

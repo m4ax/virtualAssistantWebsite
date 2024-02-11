@@ -498,6 +498,9 @@ h6 {
 .titleText {
   color: #fa5b0f !important;
 }
+.subTitleText {
+  color: #fa590fc0 !important;
+}
 .yellowText {
   color: #f0c45c !important;
 }
