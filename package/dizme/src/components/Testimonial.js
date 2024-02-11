@@ -67,7 +67,7 @@ const Testimonial = () => {
                       </div>
                       <div className="short">
                         <div className="image">
-                          <div className="main" data-img-url={data.img} />
+                          <img className="main" src={data.img} />
                         </div>
                         <div className="detail">
                           <h3>{data.name}</h3>
