@@ -48,7 +48,7 @@ const MobileMenu = ({ logo }) => {
               </a>
             </li>
             <li className="download_cv">
-              <a href="https://calendly.com/marcelinanowak_va/consultation-call?" target="_blank">
+              <a href="https://calendly.com/marcelinasocials/consultation-call?" target="_blank">
                 <span>Let's Have a Chat</span>
               </a>
             </li>

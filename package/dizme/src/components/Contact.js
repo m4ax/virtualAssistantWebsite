@@ -53,7 +53,7 @@ const Contact = () => {
                       </div>
                       <div className="short">
                         <h3>Book Consultation</h3>
-                        <span><a href="https://calendly.com/marcelinanowak_va/consultation-call" target="_blank" rel="noopener noreferrer" style={{textDecoration: 'underline'}} >Click Me</a></span>
+                        <span><a href="https://calendly.com/marcelinasocials/consultation-call" target="_blank" rel="noopener noreferrer" style={{textDecoration: 'underline'}} >Click Me</a></span>
                       </div>
                     </div>
                   </li>
